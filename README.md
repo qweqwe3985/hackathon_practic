@@ -33,13 +33,13 @@
 ├── create_model.py           # сборка пайплайна и обучение модели
 ├── predict_test.py           # тестирование модели локально
 ├── requirements.txt          # зависимости
+│   ├── data_analysis.ipynb
+│   └── model_research.ipynb
 ├── data/                     # локальные файлы данных
 │   ├── ga_sessions.csv
 │   └── ga_hits.csv
-├── notebooks/                # Jupyter-ноутбуки для EDA и моделирования
-│   ├── data_analysis.ipynb
-└── └── model_research.ipynb
-
+├── models/ #обученные модели
+    └── model.pkl
 ````
 
 ---
