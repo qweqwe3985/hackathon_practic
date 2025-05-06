@@ -1,0 +1,15 @@
+# Data processing
+pandas==1.3.5
+numpy==1.21.6
+feature-engine==1.4.0
+
+# Machine Learning
+scikit-learn==1.0.2
+lightgbm==2.2.3
+
+# Model serialization
+joblib==1.1.0
+dill==0.3.6
+
+# Telegram Bot
+python-telegram-bot==13.15
